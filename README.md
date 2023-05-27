@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba del modulo ll de Prepcourse Henry
+Este proyecto es una prueba de como crear un repositorio
